@@ -19,6 +19,11 @@ a {
     text-decoration: none;
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 .container {
     background-image: url(./111.png);
     background-repeat: no-repeat;
